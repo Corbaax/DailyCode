@@ -1,5 +1,5 @@
 class TreeNode{
-    value:string;
+    readonly value:string;
     left?:TreeNode;
     right?:TreeNode;
 
